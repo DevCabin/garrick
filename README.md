@@ -1,6 +1,4 @@
-[![Build Status](https://github.com/DevCabin/garrick?branch=master)](https://github.com/DevCabin/garrick)
-
-Garrick is faster than your mom.
+*Garrick is faster than your mom.*
 
 To do list:
 
