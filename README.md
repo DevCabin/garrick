@@ -44,3 +44,7 @@ Plugin function build in:
 
 popover time delay option integrate with mailchimp
 CTA options
+
+
+errata:
+https://github.com/tommcfarlin/theme-customizer-example
