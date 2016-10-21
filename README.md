@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
+[![Build Status](https://github.com/DevCabin/garrick?branch=master)](https://github.com/DevCabin/garrick)
 
 Garrick is faster than your mom.
 
@@ -40,11 +40,9 @@ http://fontpair.co/
 And we have a winner :
 https://startbootstrap.com/template-overviews/clean-blog/
 
-Plugin function build in:
+Plugins:
+http://wordpress.stackexchange.com/questions/160255/how-to-include-plugin-without-activation
+http://alexking.org/blog/2012/07/09/include-plugin-in-wordpress-theme
 
-popover time delay option integrate with mailchimp
-CTA options
 
-
-errata:
-https://github.com/tommcfarlin/theme-customizer-example
+https://wordpress.org/plugins/amp/
