@@ -44,3 +44,11 @@ http://alexking.org/blog/2012/07/09/include-plugin-in-wordpress-theme
 
 
 https://wordpress.org/plugins/amp/
+
+
+===
+For pop up / exit intent
+
+http://beeker.io/exit-intent-popup-script-tutorial
+
+http://www.jacklmoore.com/colorbox/
