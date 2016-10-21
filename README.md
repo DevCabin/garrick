@@ -39,3 +39,8 @@ http://fontpair.co/
 
 And we have a winner :
 https://startbootstrap.com/template-overviews/clean-blog/
+
+Plugin function build in:
+
+popover time delay option integrate with mailchimp
+
