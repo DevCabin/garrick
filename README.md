@@ -43,4 +43,4 @@ https://startbootstrap.com/template-overviews/clean-blog/
 Plugin function build in:
 
 popover time delay option integrate with mailchimp
-
+CTA options
